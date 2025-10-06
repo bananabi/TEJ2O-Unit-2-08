@@ -1,8 +1,8 @@
 /* Copyright (c) 2020 MTHS All rights reserved
  *
- * Created by: XXX
- * Created on: Sep 2020
- * This program ...
+ * Created by: arthur
+ * Created on: Sep 2025
+ * This program shows colors
 */
 
 basic.clearScreen()
